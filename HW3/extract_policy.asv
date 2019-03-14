@@ -1,0 +1,29 @@
+function [ new_policy ] = extract_policy( v )
+    
+    new_policy=zeros(12,4);
+    v_as_mat=reshape(v,3,4);
+    vv=zeros(5,6);
+    vv(2:4,2:5)=v_as_mat;
+    vv=vv(:);
+    
+    
+    differ=zeros(12,4);
+    j=1;
+    for i=7:24
+       if i==10 || i==11 || i==15 ||i==16 || i==20 ||i==21
+           continue
+       else
+       differ(j,:)=[vv(i-1)-vv(i) ,vv(i+5)-vv(i), vv(i+1)-vv(i), vv(i-5)-vv(i)];        
+       end
+       j=j+1;
+    end
+      
+    
+    
+    
+    
+    
+
+
+end
+

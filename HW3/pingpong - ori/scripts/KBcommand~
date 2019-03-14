@@ -1,0 +1,40 @@
+#!/usr/bin/env python
+# license removed for brevity
+import rospy
+import sys, select, termios, tty
+from geometry_msgs.msg import Twist
+
+def getKey():
+	tty.setraw(sys.stdin.fileno())
+	select.select([sys.stdin], [], [], 0)
+	key = sys.stdin.read(1)
+	termios.tcsetattr(sys.stdin, termios.TCSADRAIN, settings)
+	return key
+
+def KBcommand():
+    	rospy.init_node('KBcommand', anonymous=True)
+	pub = rospy.Publisher('/turtle1/cmd_vel', Twist, queue_size=10)
+	msg=Twist()
+	char=getKey()
+	
+	if char=='w'
+		msg.linear.x=1
+	elif char=='s'
+		msg.linear.x=-1
+	elif char=='a'
+		msg.angular.z=0.3
+	elif char=='d'
+		msg.angular.z=-0.3
+	else
+		msg.linear.x=0
+		msg.angular.z=0
+        
+	pub.publish(msg)
+    	rospy.spin()
+
+if __name__ == '__main__':
+    try:
+        ping()
+    except rospy.ROSInterruptException:
+        pass
+

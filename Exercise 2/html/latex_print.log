@@ -1,0 +1,375 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210) (preloaded format=pdflatex 2018.2.28)  3 MAY 2018 16:52
+entering extended mode
+**./latex_print.tex
+(latex_print.tex
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 1 language(s) loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex/latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex/latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex/latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex/latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex/latex\graphics\graphics.sty"
+Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex/latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex/latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex/latex\graphics-def\pdftex.def"
+File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex/generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex/generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex/latex\graphics\color.sty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex/latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+No file latex_print.aux.
+\openout1 = `latex_print.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count88
+\scratchdimen=\dimen105
+\scratchbox=\box26
+\nofMPsegments=\count89
+\nofMParguments=\count90
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count91
+\MPscratchDim=\dimen106
+\MPnumerator=\count92
+\makeMPintoPDFobject=\count93
+\everyMPtoPDFconversion=\toks16
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex/generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex/generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex/generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex/latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex/latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex/generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex/latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex/generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex/generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 21.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex/latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 21.
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 76--76
+[]\OT1/cmtt/m/n/10 \subsection*{section b - add a function "move" to the cRobot
+ class}[] 
+ []
+
+
+Overfull \hbox (48.74657pt too wide) in paragraph at lines 76--76
+[]           \OT1/cmtt/m/n/10 obj.theta = obj.theta+u_rotation + mvnrnd(0,obj.t
+urn_noise^2,1);[] 
+ []
+
+
+Overfull \hbox (132.74583pt too wide) in paragraph at lines 76--76
+[]           \OT1/cmtt/m/n/10 obj.x =  obj.x + (u_translation + mvnrnd(0,obj.fo
+rward_noise^2))*cos(obj.theta);[] 
+ []
+
+
+Overfull \hbox (127.49588pt too wide) in paragraph at lines 76--76
+[]           \OT1/cmtt/m/n/10 obj.y = obj.y + (u_translation + mvnrnd(0,obj.for
+ward_noise^2))*sin(obj.theta);[] 
+ []
+
+[1
+
+{C:/Users/Nadav Lehrer/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 95--95
+[]        \OT1/cmtt/m/n/10 +mvnrnd(zeros(1,4),(obj.sense_distance_noise^2)*eye(
+4),1)';[] 
+ []
+
+
+Overfull \hbox (48.74657pt too wide) in paragraph at lines 114--114
+[] \OT1/cmtt/m/n/10 function   [p] = measurement_probability(obj, r_measured, p
+ose_x, map_obj)[] 
+ []
+
+
+Overfull \hbox (48.74657pt too wide) in paragraph at lines 114--114
+[]        \OT1/cmtt/m/n/10 p=prod(normpdf(r_at_pose_x-r_measured,0,obj.sense_di
+stance_noise));[] 
+ []
+
+[2]
+Overfull \hbox (53.99652pt too wide) in paragraph at lines 165--165
+[]\OT1/cmtt/m/n/10 robot_true_pose=zeros(length(u)+1,2); %initialize the robots
+ true pose array[] 
+ []
+
+
+Overfull \hbox (27.74675pt too wide) in paragraph at lines 165--165
+[]\OT1/cmtt/m/n/10 robot_true_pose(1,:)=[myrobot.x myrobot.y]; %the robot's fir
+st position[] 
+ []
+
+
+Overfull \hbox (53.99652pt too wide) in paragraph at lines 165--165
+[]    \OT1/cmtt/m/n/10 measurments(:,i)=myrobot.sense(myworld); %take the measu
+rement each step[] 
+ []
+
+[3]
+Overfull \hbox (32.9967pt too wide) in paragraph at lines 240--240
+[]\OT1/cmtt/m/n/10 T=length(u)+1; %the last time steps occures after the last m
+otor command[] 
+ []
+
+
+Overfull \hbox (80.24629pt too wide) in paragraph at lines 240--240
+[]\OT1/cmtt/m/n/10 particle_weight=ones(N,1)*(1/N); % at the beggining each par
+ticle weighs the same[] 
+ []
+
+
+Overfull \hbox (85.49625pt too wide) in paragraph at lines 240--240
+[]\OT1/cmtt/m/n/10 % it's more efficient memory, and run time-wise to put the p
+articles into an array[] 
+ []
+
+
+Overfull \hbox (32.9967pt too wide) in paragraph at lines 240--240
+[]\OT1/cmtt/m/n/10 particle_array=[particle.x*ones(N,1), particle.y*ones(N,1), 
+zeros(N,1)];[] 
+ []
+
+
+Overfull \hbox (90.7462pt too wide) in paragraph at lines 240--240
+[]        \OT1/cmtt/m/n/10 particle.set( particle_array(i,1),particle_array(i,2
+),particle_array(i,3));[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 240--240
+[]        \OT1/cmtt/m/n/10 particle_array(i,:)=[particle.x particle.y particle.
+theta];[] 
+ []
+
+
+Overfull \hbox (232.49496pt too wide) in paragraph at lines 240--240
+[]        \OT1/cmtt/m/n/10 particle_weight(i)=particle.measurement_probability(
+measurments(:,t-1),particle_array(i,1:2),myworld);[] 
+ []
+
+
+Overfull \hbox (132.74583pt too wide) in paragraph at lines 240--240
+[]    \OT1/cmtt/m/n/10 plot(particle_array(:,1),particle_array(:,2),'ko','Marke
+rSize',1,'MarkerFaceColor','k')[] 
+ []
+
+
+Overfull \hbox (38.24666pt too wide) in paragraph at lines 240--240
+[]    \OT1/cmtt/m/n/10 % re-sample particles and estimate robot positiom via th
+e expectation[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 240--240
+[]    \OT1/cmtt/m/n/10 particle_array=LoVarResampling(particle_array,particle_w
+eight);[] 
+ []
+
+
+Overfull \hbox (53.99652pt too wide) in paragraph at lines 240--240
+[]    \OT1/cmtt/m/n/10 plot(particle_array(:,1),particle_array(:,2),'.','color'
+,[0.5 0.5 0.5]);[] 
+ []
+
+[4]
+Overfull \hbox (95.99615pt too wide) in paragraph at lines 240--240
+[]    \OT1/cmtt/m/n/10 robot_estimated_pose(t,:)=[mean(particle_array(:,1)) mea
+n(particle_array(:,2))];[] 
+ []
+
+
+Overfull \hbox (38.24666pt too wide) in paragraph at lines 240--240
+[]\OT1/cmtt/m/n/10 legend('landmarks', ... %'command','true position','estimate
+d position');[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 240--240
+[]                    \OT1/cmtt/m/n/10 'projeced particles','resampled particle
+s', ...[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 240--240
+[]                    \OT1/cmtt/m/n/10 'projeced particles','resampled particle
+s', ...[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 240--240
+[]                    \OT1/cmtt/m/n/10 'projeced particles','resampled particle
+s', ...[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 240--240
+[]                    \OT1/cmtt/m/n/10 'projeced particles','resampled particle
+s', ...[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 240--240
+[]                    \OT1/cmtt/m/n/10 'projeced particles','resampled particle
+s', ...[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 240--240
+[]                    \OT1/cmtt/m/n/10 'command','true position','estimated pos
+ition');[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 282--282
+[] \OT1/cmtt/m/n/10 function equally_weighted_set=LoVarResampling(particle_set,
+weights)[] 
+ []
+
+
+Overfull \hbox (53.99652pt too wide) in paragraph at lines 282--282
+[] \OT1/cmtt/m/n/10 %x=-100:0.1:100; weights=pdf(pd,x);re_sampled_x=LoVarResamp
+ling(x,weights);[] 
+ []
+
+
+Overfull \hbox (127.49588pt too wide) in paragraph at lines 282--282
+[]     \OT1/cmtt/m/n/10 % chi (2D array) is are the particles weighted accordin
+g to the likelyhood pdf, first[] 
+ []
+
+
+Overfull \hbox (32.9967pt too wide) in paragraph at lines 282--282
+[]     \OT1/cmtt/m/n/10 % we need to know the number of particles N, and the st
+ate vector's[] 
+ []
+
+
+Overfull \hbox (59.24648pt too wide) in paragraph at lines 282--282
+[]     \OT1/cmtt/m/n/10 % dimensions 'dim'(for example position velocity and te
+mperature). first[] 
+ []
+
+
+Overfull \hbox (38.24666pt too wide) in paragraph at lines 282--282
+[]     \OT1/cmtt/m/n/10 % let's assume that N>>dim and turn chi to N-by-dim (if
+ not already)[] 
+ []
+
+[5] [6] (latex_print.aux) ) 
+Here is how much of TeX's memory you used:
+ 1526 strings out of 495232
+ 22054 string characters out of 3181592
+ 79490 words of memory out of 3000000
+ 4825 multiletter control sequences out of 15000+200000
+ 4413 words of font info for 17 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 40i,5n,25p,288b,247s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmtt10.pfb>
+Output written on latex_print.pdf (6 pages, 68623 bytes).
+PDF statistics:
+ 37 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
